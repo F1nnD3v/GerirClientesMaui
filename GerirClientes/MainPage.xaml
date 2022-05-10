@@ -24,16 +24,16 @@
                 TextColor="Black"
                 WidthRequest="300"
                 />
-            <Entry
-                x:Name="tboxPassword"
-                BackgroundColor="White"
-                FontFamily="Cascadia Mono"
-                IsPassword="True" 
-                Placeholder="Password"
-                TextChanged="tboxPassword_TextChanged"
-                TextColor="Black"
-                WidthRequest="300"
-                />
+                <!--<Entry
+                    x:Name="tboxPassword"
+                    BackgroundColor="White"
+                    FontFamily="Cascadia Mono"
+                    Placeholder="Password"
+                    TextColor="Black"
+                    WidthRequest="300"
+                    IsPassword="True"
+                    TextChanged="tboxPassword_TextChanged"
+                    />-->
             <Button
                 x:Name="btnLogin"
                 BackgroundColor="#0579fc"

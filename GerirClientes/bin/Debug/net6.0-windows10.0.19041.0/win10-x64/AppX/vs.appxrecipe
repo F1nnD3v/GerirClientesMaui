@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-09T16:54:52.976</Modified>
+      <Modified>2022-05-10T08:53:19.408</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-05-09T16:54:51.059</Modified>
+      <Modified>2022-05-10T08:53:17.975</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\GerirClientes.runtimeconfig.json">
       <PackagePath>GerirClientes.runtimeconfig.json</PackagePath>
-      <Modified>2022-05-09T16:44:36.608</Modified>
+      <Modified>2022-05-10T08:53:17.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\GerirClientes.dll">
       <PackagePath>GerirClientes.dll</PackagePath>
-      <Modified>2022-05-09T16:54:48.937</Modified>
+      <Modified>2022-05-10T08:53:15.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>GerirClientes.exe</PackagePath>
-      <Modified>2022-05-09T16:54:48.962</Modified>
+      <Modified>2022-05-10T08:53:15.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.3\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1051,7 +1051,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\GerirClientes.deps.json">
       <PackagePath>GerirClientes.deps.json</PackagePath>
-      <Modified>2022-05-09T16:54:52.080</Modified>
+      <Modified>2022-05-10T08:53:18.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.300-rc.2.5513\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1079,23 +1079,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.302</Modified>
+      <Modified>2022-05-10T08:43:42.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
       <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.328</Modified>
+      <Modified>2022-05-10T08:43:42.219</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
       <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.354</Modified>
+      <Modified>2022-05-10T08:43:42.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
       <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.394</Modified>
+      <Modified>2022-05-10T08:43:42.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
       <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.532</Modified>
+      <Modified>2022-05-10T08:43:42.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1107,143 +1107,143 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-05-09T16:16:01.033</Modified>
+      <Modified>2022-05-10T08:43:42.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-05-09T16:16:01.062</Modified>
+      <Modified>2022-05-10T08:43:42.698</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-05-09T16:16:01.084</Modified>
+      <Modified>2022-05-10T08:43:42.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-05-09T16:16:01.119</Modified>
+      <Modified>2022-05-10T08:43:42.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-05-09T16:16:01.239</Modified>
+      <Modified>2022-05-10T08:43:42.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.681</Modified>
+      <Modified>2022-05-10T08:43:42.452</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.687</Modified>
+      <Modified>2022-05-10T08:43:42.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.694</Modified>
+      <Modified>2022-05-10T08:43:42.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.700</Modified>
+      <Modified>2022-05-10T08:43:42.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.708</Modified>
+      <Modified>2022-05-10T08:43:42.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.803</Modified>
+      <Modified>2022-05-10T08:43:42.546</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.812</Modified>
+      <Modified>2022-05-10T08:43:42.554</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.826</Modified>
+      <Modified>2022-05-10T08:43:42.564</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.844</Modified>
+      <Modified>2022-05-10T08:43:42.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.877</Modified>
+      <Modified>2022-05-10T08:43:42.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.747</Modified>
+      <Modified>2022-05-10T08:43:42.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.756</Modified>
+      <Modified>2022-05-10T08:43:42.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.765</Modified>
+      <Modified>2022-05-10T08:43:42.523</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.776</Modified>
+      <Modified>2022-05-10T08:43:42.530</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.793</Modified>
+      <Modified>2022-05-10T08:43:42.540</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.713</Modified>
+      <Modified>2022-05-10T08:43:42.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.719</Modified>
+      <Modified>2022-05-10T08:43:42.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.725</Modified>
+      <Modified>2022-05-10T08:43:42.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.732</Modified>
+      <Modified>2022-05-10T08:43:42.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.741</Modified>
+      <Modified>2022-05-10T08:43:42.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.889</Modified>
+      <Modified>2022-05-10T08:43:42.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.903</Modified>
+      <Modified>2022-05-10T08:43:42.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.918</Modified>
+      <Modified>2022-05-10T08:43:42.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.937</Modified>
+      <Modified>2022-05-10T08:43:42.637</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-05-09T16:16:01.011</Modified>
+      <Modified>2022-05-10T08:43:42.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.737</Modified>
+      <Modified>2022-05-10T08:43:42.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.755</Modified>
+      <Modified>2022-05-10T08:43:42.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.784</Modified>
+      <Modified>2022-05-10T08:43:42.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.822</Modified>
+      <Modified>2022-05-10T08:43:42.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-05-09T16:16:00.916</Modified>
+      <Modified>2022-05-10T08:43:42.582</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

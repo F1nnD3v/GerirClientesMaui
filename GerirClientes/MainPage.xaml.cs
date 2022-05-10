@@ -24,11 +24,12 @@ public partial class MainPage : ContentPage
         }
     }
 
-    private void btnLogin_Clicked(object sender, EventArgs e)
+    private async void btnLogin_Clicked(object sender, EventArgs e)
     {
         string username, password;
         username = tboxUserName.Text;
-        password = tboxPassword.Text;
+        password = "Admin123";
+        //password = tboxPassword.Text;
 
         if (username == "" || password == "")
         {
@@ -42,7 +43,7 @@ public partial class MainPage : ContentPage
         }
         else
         {
-            //mudar para a proxima pagina
+            await Navigation.PushAsync(new GestaoClientes());
         }
     }
 }

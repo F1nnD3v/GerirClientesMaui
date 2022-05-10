@@ -1,1 +1,0 @@
-C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\GerirClientes.csproj;x64
