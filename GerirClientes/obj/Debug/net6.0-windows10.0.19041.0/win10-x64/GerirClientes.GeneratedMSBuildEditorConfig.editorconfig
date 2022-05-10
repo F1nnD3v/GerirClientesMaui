@@ -21,6 +21,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = GerirClientes.AppShell.xam
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/35193/Desktop/pastas e etc/c\#/GerirClientes/GerirClientes/GestaoClientes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GerirClientes.GestaoClientes.xaml
+build_metadata.AdditionalFiles.TargetPath = GestaoClientes.xaml
+build_metadata.AdditionalFiles.RelativePath = GestaoClientes.xaml
+
 [C:/Users/35193/Desktop/pastas e etc/c\#/GerirClientes/GerirClientes/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GerirClientes.MainPage.xaml

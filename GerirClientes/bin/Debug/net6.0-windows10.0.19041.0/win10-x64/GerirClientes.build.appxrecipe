@@ -934,6 +934,36 @@
     <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\eliminar.scale-100.png">
+      <PackagePath>eliminar.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\eliminar.scale-125.png">
+      <PackagePath>eliminar.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\eliminar.scale-150.png">
+      <PackagePath>eliminar.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\eliminar.scale-200.png">
+      <PackagePath>eliminar.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\eliminar.scale-400.png">
+      <PackagePath>eliminar.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pencil_edit.scale-100.png">
+      <PackagePath>pencil_edit.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pencil_edit.scale-125.png">
+      <PackagePath>pencil_edit.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pencil_edit.scale-150.png">
+      <PackagePath>pencil_edit.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pencil_edit.scale-200.png">
+      <PackagePath>pencil_edit.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\35193\Desktop\pastas e etc\c#\GerirClientes\GerirClientes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pencil_edit.scale-400.png">
+      <PackagePath>pencil_edit.scale-400.png</PackagePath>
+    </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Users\35193\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix">

@@ -43,6 +43,7 @@ public partial class MainPage : ContentPage
         }
         else
         {
+            tboxUserName.Text = "";
             await Navigation.PushAsync(new GestaoClientes());
         }
     }

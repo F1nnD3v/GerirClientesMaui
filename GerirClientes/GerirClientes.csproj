@@ -39,7 +39,6 @@
 
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
-		<MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208" />
 
 		<!-- Custom Fonts -->
 		<MauiFont Include="Resources\Fonts\*" />
@@ -49,13 +48,14 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Remove="GestaoClientes.xaml" />
+	  <None Remove="Resources\Images\eliminar.svg" />
+	  <None Remove="Resources\Images\pencil_edit.svg" />
 	</ItemGroup>
 
 	<ItemGroup>
-	  <EmbeddedResource Include="GestaoClientes.xaml">
-	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-	  </EmbeddedResource>
+	  <MauiXaml Update="GestaoClientes.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>

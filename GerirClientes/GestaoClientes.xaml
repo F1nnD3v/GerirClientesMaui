@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GerirClientes.GestaoClientes"
+            BackgroundColor="White">
+    <ContentPage Title="Gerir Clientes">
+        <StackLayout Padding="30">
+            <Grid BackgroundColor="Gray">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="10*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.5*"></RowDefinition>
+                    <RowDefinition Height="0.5*"></RowDefinition>
+                    <RowDefinition Height="0.5*"></RowDefinition>
+                    <RowDefinition Height="0.5*"></RowDefinition>
+                    <RowDefinition Height="0.5*"></RowDefinition>
+                    <RowDefinition Height="0.5*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Label
+                    HorizontalOptions="StartAndExpand" 
+                    VerticalOptions="Center" 
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    Text="Id: 25">
+                </Label>
+                <Label 
+                    HorizontalOptions="StartAndExpand" 
+                    VerticalOptions="Center" 
+                    Grid.Column="0"
+                    Grid.Row="1"
+                    Text="Primeiro nome: Ricardo">
+                </Label>
+                <Label
+                    HorizontalOptions="StartAndExpand" 
+                    VerticalOptions="Center" 
+                    Grid.Column="0"
+                    Grid.Row="2"
+                    Text="Ultimo nome: Silva">
+                </Label>
+                <Label
+                    HorizontalOptions="StartAndExpand" 
+                    VerticalOptions="Center" 
+                    Grid.Column="0"
+                    Grid.Row="3"
+                    Text="Idade: 18">
+                </Label>
+                <Label
+                    HorizontalOptions="StartAndExpand" 
+                    VerticalOptions="Center" 
+                    Grid.Column="0"
+                    Grid.Row="4"
+                    Text="Email: ricardo@gmail.com">
+                </Label>
+                <Button
+                    Background="pencil_edit.svg"
+                    Margin="10,10,10,0"
+                    VerticalOptions="Start"
+                    Grid.Column="1"
+                    HorizontalOptions="End"
+                    HeightRequest="40"
+                    WidthRequest="40">
+                </Button>
+                <Button
+                    Margin="10,20,10,0"
+                    VerticalOptions="Center"
+                    Grid.Column="2"
+                    Grid.Row="2"
+                    HorizontalOptions="End"
+                    ImageSource="./Resources/Images/eliminar.svg"
+                    WidthRequest="40"
+                    HeightRequest="40">
+                </Button>
+            </Grid>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Adicionar Clientes">
+        <StackLayout Padding="5,25">
+            
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>
