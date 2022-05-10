@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GerirClientes.MainPage"
+             BackgroundColor="White">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="25" Padding="30">
+
+            <Label
+                FontFamily="Cascadia Mono"
+                FontSize="32"
+                HorizontalOptions="Center"
+                SemanticProperties.HeadingLevel="Level1"
+                Text="Gestão de Clientes - Login"
+                TextColor="#0579fc"
+                />
+            <Entry
+                x:Name="tboxUserName"
+                BackgroundColor="White"
+                FontFamily="Cascadia Mono"
+                Placeholder="Username"
+                TextChanged="tboxUserName_TextChanged"
+                TextColor="Black"
+                WidthRequest="300"
+                />
+            <Entry
+                x:Name="tboxPassword"
+                BackgroundColor="White"
+                FontFamily="Cascadia Mono"
+                IsPassword="True" 
+                Placeholder="Password"
+                TextChanged="tboxPassword_TextChanged"
+                TextColor="Black"
+                WidthRequest="300"
+                />
+            <Button
+                x:Name="btnLogin"
+                BackgroundColor="#0579fc"
+                Clicked="btnLogin_Clicked"
+                FontFamily="Cascadia Mono"
+                HorizontalOptions="Center"
+                Text="Login"
+                TextColor="White"
+                />
+            <Label
+                x:Name="lblErro"
+                BackgroundColor="White"
+                FontFamily="Cascadia Mono"
+                HorizontalOptions="Center"
+                Text=""
+                TextColor="Red"
+                />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
